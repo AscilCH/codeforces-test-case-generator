@@ -3,7 +3,6 @@
 A user-friendly desktop application built with Python and Tkinter (ttk) to generate customizable test cases for competitive programming problems, particularly useful for platforms like Codeforces, LeetCode, etc.
 
 ![Screenshot Placeholder](img.png)
-*(Suggestion: Replace placeholder.png with an actual screenshot of the running application)*
 
 ## Features
 
@@ -74,6 +73,6 @@ Contributions are welcome! If you have suggestions for improvements or find bugs
 
 ## License
 
-*(Suggestion: Add a license if you plan to share this publicly. The MIT License is a common choice for simple projects like this.)*
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Example: This project is licensed under the MIT License - see the LICENSE.md file for details.
